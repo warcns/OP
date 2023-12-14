@@ -25,3 +25,14 @@ DOMAIN-SUFFIX,msunlimitedcloudsummit.com
 DOMAIN-SUFFIX,renovacionoffice.com
 DOMAIN-SUFFIX,sprinklesapp.com
 DOMAIN-SUFFIX,copilot.microsoft.com
+
+#Edge的Copilot也验证IP位置了
+DOMAIN-SUFFIX,edge.activity.windows.com
+DOMAIN-SUFFIX,edge.microsoft.com
+DOMAIN-SUFFIX,iecvlist.microsoft.com
+DOMAIN-SUFFIX,msedge.api.cdp.microsoft.com
+DOMAIN-SUFFIX,nav-edge.smartscreen.microsoft.com
+DOMAIN-SUFFIX,msedge.b.tlu.dl.delivery.mp.microsoft.com
+
+#DOMAIN-KEYWORD,edge
+#DOMAIN-KEYWORD,msedge
