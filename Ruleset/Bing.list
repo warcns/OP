@@ -35,6 +35,7 @@ DOMAIN-SUFFIX,nav-edge.smartscreen.microsoft.com
 DOMAIN-SUFFIX,msedge.b.tlu.dl.delivery.mp.microsoft.com
 DOMAIN-SUFFIX,events.data.microsoft.com
 DOMAIN-SUFFIX,microsoftonline.com
+DOMAIN-SUFFIX,config.edge.skype.com
 
 #DOMAIN-KEYWORD,edge
 #DOMAIN-KEYWORD,msedge
