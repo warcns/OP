@@ -1,17 +1,15 @@
-# NAME: Apple_APNs_Shrink_Test_02
+# NAME: Apple_APNs_Shrink_Test_03
 # AUTHOR: Custom
 # UPDATED: 2026-05-01
-# DOMAIN-SUFFIX: 7
+# DOMAIN-SUFFIX: 5
 # DOMAIN-KEYWORD: 2
 # IP-CIDR: 5
 # IP-CIDR6: 4
-# TOTAL: 18
+# TOTAL: 16
 
 DOMAIN-SUFFIX,push.apple.com
 DOMAIN-SUFFIX,apple-dns.net
 DOMAIN-SUFFIX,apple-dns.com
-DOMAIN-SUFFIX,apple-dns.cn
-DOMAIN-SUFFIX,apple-dns.com.cn
 DOMAIN-SUFFIX,akadns.net
 DOMAIN-SUFFIX,digicert.com
 
