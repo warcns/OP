@@ -8,12 +8,6 @@
 # IP-CIDR6: 4
 # TOTAL: 30
 
-DOMAIN,captive.apple.com
-DOMAIN,gs.apple.com
-DOMAIN,humb.apple.com
-DOMAIN,static.ips.apple.com
-DOMAIN,tbsc.apple.com
-
 DOMAIN-SUFFIX,push.apple.com
 DOMAIN-SUFFIX,apple-dns.net
 DOMAIN-SUFFIX,apple-dns.com
@@ -21,12 +15,6 @@ DOMAIN-SUFFIX,apple-dns.cn
 DOMAIN-SUFFIX,apple-dns.com.cn
 DOMAIN-SUFFIX,akadns.net
 DOMAIN-SUFFIX,digicert.com
-DOMAIN-SUFFIX,cdn-apple.com
-DOMAIN-SUFFIX,aaplimg.com
-DOMAIN-SUFFIX,mzstatic.com
-DOMAIN-SUFFIX,icloud.com
-DOMAIN-SUFFIX,icloud.com.cn
-
 DOMAIN-KEYWORD,apple.com.akadns.net
 DOMAIN-KEYWORD,icloud.com.akadns.net
 DOMAIN-KEYWORD,apple.com.edgekey.net
