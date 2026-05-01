@@ -5,8 +5,8 @@
 # DOMAIN-KEYWORD: 1
 # IP-CIDR: 5
 # IP-CIDR6: 4
-# TOTAL: 12
+# TOTAL: 2
 
-DOMAIN-SUFFIX,push.apple.com
+#DOMAIN-SUFFIX,push.apple.com
 DOMAIN-SUFFIX,akadns.net
 DOMAIN-KEYWORD,apple.com.edgekey.net
