@@ -1,0 +1,110 @@
+# ==============================
+# AUDIT 规则 - Clash 版
+# ==============================
+
+# 境外政治/异见/新闻类
+DOMAIN-SUFFIX,epochtimes.com
+DOMAIN-SUFFIX,epochtimes.net
+DOMAIN-SUFFIX,epochtimes.org
+DOMAIN-SUFFIX,epochweekly.com
+DOMAIN-SUFFIX,ntdtv.com
+DOMAIN-SUFFIX,ntdtv.net
+DOMAIN-SUFFIX,chinadigitaltimes.net
+DOMAIN-SUFFIX,secretchina.com
+DOMAIN-SUFFIX,dajiyuan.com
+DOMAIN-SUFFIX,boxun.com
+DOMAIN-SUFFIX,aboluowang.com
+DOMAIN-SUFFIX,creaders.net
+DOMAIN-SUFFIX,renminbao.com
+DOMAIN-SUFFIX,soundofhope.org
+DOMAIN-SUFFIX,bannedbook.org
+DOMAIN-SUFFIX,bannedbook.net
+DOMAIN-SUFFIX,chengmingmag.com
+DOMAIN-SUFFIX,inmediahk.net
+DOMAIN-SUFFIX,zhuichaguoji.org
+DOMAIN-SUFFIX,dwnews.com
+DOMAIN-SUFFIX,dwnews.net
+DOMAIN-SUFFIX,huaglad.com
+DOMAIN-SUFFIX,mhradio.org
+DOMAIN-SUFFIX,edoors.com
+DOMAIN-SUFFIX,jinpianwang.com
+DOMAIN-SUFFIX,breakgfw.com
+DOMAIN-SUFFIX,mingjingnews.com
+DOMAIN-SUFFIX,oneplusnews.com
+DOMAIN,cn.rfi.fr
+DOMAIN,talk.news.pts.org.tw
+DOMAIN-SUFFIX,efcc.org
+
+# 法轮功 / 特定宗教政治相关
+DOMAIN-SUFFIX,falundafa.org
+DOMAIN-SUFFIX,falundafa.com
+DOMAIN-SUFFIX,falungong.org
+DOMAIN-SUFFIX,falungong.com
+DOMAIN-SUFFIX,minghui.org
+DOMAIN-SUFFIX,dafahao.org
+DOMAIN-SUFFIX,zhengjian.org
+DOMAIN-SUFFIX,botanwang.com
+DOMAIN-SUFFIX,dongtaiwang.com
+DOMAIN-SUFFIX,dongtaiwang.net
+DOMAIN-SUFFIX,wujieliulan.com
+DOMAIN-SUFFIX,wujieliulan.org
+DOMAIN-SUFFIX,tuidang.org
+DOMAIN-SUFFIX,tuidang.net
+DOMAIN-SUFFIX,tuidang.com
+DOMAIN-SUFFIX,xizang-zhiye.org
+DOMAIN-KEYWORD,mingjinglive
+DOMAIN-KEYWORD,falunaz
+DOMAIN-KEYWORD,dafahao
+DOMAIN-KEYWORD,qi-gong
+
+# 匿名临时邮件服务
+DOMAIN-SUFFIX,guerrillamail.com
+DOMAIN-SUFFIX,guerrillamail.info
+DOMAIN-SUFFIX,guerrillamail.biz
+DOMAIN-SUFFIX,guerrillamail.de
+DOMAIN-SUFFIX,guerrillamail.net
+DOMAIN-SUFFIX,guerrillamail.org
+DOMAIN-SUFFIX,guerrillamailblock.com
+DOMAIN-SUFFIX,sharklasers.com
+DOMAIN-SUFFIX,spam4.com
+DOMAIN-SUFFIX,bccto.me
+DOMAIN-SUFFIX,chacuo.net
+DOMAIN-SUFFIX,027168.com
+DOMAIN-KEYWORD,pokemail
+
+# 匿名工具 / 代理类
+DOMAIN-SUFFIX,torproject.org
+DOMAIN-KEYWORD,netvigator
+
+# 政府/官方域名（境外）
+DOMAIN-SUFFIX,gov
+DOMAIN-SUFFIX,gov.tw
+DOMAIN-SUFFIX,gov.hk
+DOMAIN-SUFFIX,gov.uk
+DOMAIN-SUFFIX,gov.org
+DOMAIN-SUFFIX,gov.net
+DOMAIN-SUFFIX,gov.fr
+DOMAIN-SUFFIX,gov.eu
+DOMAIN-SUFFIX,gov.info
+DOMAIN-SUFFIX,gov.me
+
+# 支付 / 金融类（台港地区游戏支付）
+DOMAIN-SUFFIX,mycard.com
+DOMAIN-SUFFIX,mycard.tw
+DOMAIN-SUFFIX,gash.com
+DOMAIN-SUFFIX,gash.tw
+DOMAIN-SUFFIX,beanfun.com
+DOMAIN-KEYWORD,bank
+
+# 可疑/代理分发域名
+DOMAIN-SUFFIX,pincong.rocks
+DOMAIN-SUFFIX,flows.pages.dev
+DOMAIN-SUFFIX,miaoko.pages.dev
+DOMAIN-KEYWORD,laomoe
+DOMAIN-KEYWORD,lolicp
+DOMAIN-KEYWORD,vv1234
+DOMAIN-KEYWORD,4321q
+DOMAIN-KEYWORD,868123
+DOMAIN-KEYWORD,ksweb
+DOMAIN-KEYWORD,mm126
+DOMAIN-KEYWORD,jiyou
