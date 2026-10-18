@@ -1,0 +1,23 @@
+# NAME: Muse_MetaAI
+# AUTHOR: Custom
+# UPDATED: 2026-10-18
+# 说明：Meta Muse AI 应用 + 云端 Secure VM 域名分流
+# 来源：基于社区逆向与实测规则精简
+
+# === 核心: Muse 应用域名 ===
+DOMAIN-SUFFIX,muse.ai
+DOMAIN-SUFFIX,museai.com
+DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,meta.com
+DOMAIN-SUFFIX,atmeta.com
+
+# === 云端虚拟机 (Secure VM) 基础设施 ===
+DOMAIN-SUFFIX,metaaivm.com
+DOMAIN-SUFFIX,metaaiusercontent.com
+DOMAIN-SUFFIX,ecto1usercontent.com
+DOMAIN,hatch.ecto1.ai
+DOMAIN,node.hatch.one
+DOMAIN,meta.privacy-gateway.cloudflare.com
+DOMAIN,meta.hpke-keys.privacy-gateway.cloudflare.com
+DOMAIN,meta-ohttp-relay-prod.fastly-edge.com
+DOMAIN,meta-ohttp-config-prod.fastly-edge.com
